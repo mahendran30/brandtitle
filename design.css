@@ -640,12 +640,12 @@ body{
                       0 0 15px #e91e63,
                       0 0 20px #e91e63,
 }
-@media screen and (max-width: 950px){
+@media screen and (max-width: 600px){
     .flip{
         flex-direction:column;
     }
     .content{
-        width:68.5%;
+        width:72.5%;
         margin: 40px 20px;
     }
      .font{
@@ -657,7 +657,7 @@ body{
     }
     .content .front h1{
         position: relative;
-        margin-top:86%;
+        margin-top:84%;
         padding-top:15px;
         letter-spacing: 2px;
   
